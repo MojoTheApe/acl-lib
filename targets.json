@@ -571,6 +571,16 @@
       "source": "sheet",
       "updated_at": "",
       "updated_by": ""
+    },
+    "Первый": {
+      "added_at": "2026-09-21 17:52:54 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "один, два",
+      "name": "Первый",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
     }
   },
   "version": 1
