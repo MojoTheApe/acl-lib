@@ -32,6 +32,16 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "2-3": {
+      "added_at": "2026-09-21 17:52:39 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "Interest 2 3",
+      "name": "2-3",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Cars": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
