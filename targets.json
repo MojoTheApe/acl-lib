@@ -1,0 +1,476 @@
+{
+  "deleted": {},
+  "targets": {
+    "Cars": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Audi, BMW, Ferrari, Jaguar Cars, Mercedes-AMG, Mercedes-Benz, Rolls-Royce Motor Cars, Bentley, Bentley, Bugatti Automobiles, McLaren Automotive",
+      "name": "Cars",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Current_Events": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Local news, Current events",
+      "name": "Current_Events",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "DAYV2": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Algorithmic tradin, CMC Markets, Day trading, EToro, Financial market, Foreign exchange market, Forex signal, FXCM, Interactive Brokers, MetaTrader 4, Plus500, Return on investment, Risk management, Stock exchange, Stock market, Swing trading",
+      "name": "DAYV2",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Day": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Swing trading, Financial market, Day trading, Stock exchange, FxPro, High-frequency trading, Forex signal, Passive income, CMC Markets, Foreign exchange market, Stock market, FXCM, Algorithmic trading, EToro, E-Trade, Alpari Group or Plus500",
+      "name": "Day",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "EF": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "exchange-traded fund, High-net-worth individual, Stock market, Wealth management",
+      "name": "EF",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "ES": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Engaged Shoppers, Online shoppers, People who have made online purchases, Shopping and fashion buyers, Frequent online buyers, High value goods buyers, Credit card users, Debit card users, Mobile payment users, In-app purchasers, Facebook Payments users, PayPal users, Apple Pay users, Google Pay users, Amazon, AliExpress, eBay, Etsy, Shopify, Zalando, ASOS, Online banking, Digital wallets, Subscription services, SaaS products, Streaming services (Netflix, Spotify)",
+      "name": "ES",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "FX": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Foreign exchange market, Forex signal, forex trader, Forex Club, Forex Signals, Easy forex, Forex Bank, Forex Online Trading, Forex Factory, Profit Forex Signal, FOREX.com, Forex CFDs Signal, MT5.com - Forex Traders Community, FxPro, iFOREX, XForex, OzForex, InstaForex",
+      "name": "FX",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "FX_Y": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Algorithmic trading, Day trading, Foreign exchange market, Forex CFDs Signal, Forex signal, Forex Signals, Profit Forex Signal, Stock exchange, Stock market, Swing trading",
+      "name": "FX_Y",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "GMB": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Online gambling, Sports betting, Gambling",
+      "name": "GMB",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "GMBL": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Bet365, Betfair, Betfred, Betsson, Bookmaker, Bwin.Party Digital Entertainment, Ladbrokes, Lottery, Online gambling, Paddy Power, Passive income, Sky Betting and Gaming, Slot machine, Sportingbet, Sports betting, Sportsbet.com.au, Stock market, Tipico, Unibet, Casino games, Gambling, Online poker",
+      "name": "GMBL",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Gik": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "SpaceX, tesla, Apple Inc.",
+      "name": "Gik",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Gos": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Celebrity, Celebrity Gossip, Celebrity News, Entertainment Weekly, Internet celebrity, The Hollywood Gossip, Music",
+      "name": "Gos",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "HNW": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Frequent international travelers, Frequent Travelers, Business class, Business travel, First class travel, Luxury Resorts, Yacht club, Yachting",
+      "name": "HNW",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "HedgeFund": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Asset management, Investment management, Mutual fund, Private equity, Private equity fund, Private equity real estate, Venture capital, Venture capital financing",
+      "name": "HedgeFund",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Hobbies": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Adventure travel, Acting, Vacations, Singing, Community issues, Gardening, Ecotourism, Mountains, Car rentals, Trucks, Crafts, Rabbits, Electric vehicle, Furniture, Volunteering, Painting, Performing arts, Cats, Fish, Automobiles, Fine art, Minivans, Air travel, Cruises, Home improvement, Birds, Current events, Guitar, SUVs, Dogs, Home Appliances, Motorcycles, Nature (science), Reptiles, Drums, RVs, Horses, Charity and causes, Dance, Lakes, Tourism, Beaches, Scooters, Pet food, Do it yourself (DIY), Hotels, Writing, Politics, Law, Sculpture, Hybrids, Drawing, Photography, Theme parks or Boats",
+      "name": "Hobbies",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "IPO": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Initial Public Offering, Venture Capital, Angel Investor, Investment Banking, Private Equity fund",
+      "name": "IPO",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Investing": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Investing, Stock exchange, Financial market, Stock market, Capital market, Investment banking, Bloomberg, CNBC, Financial Times, The Wall Street Journal, Investopedia, Interactive Brokers, E*TRADE, NASDAQ, S&P 500, Dow Jones Industrial Average, Return on investment, Portfolio management, Wealth management",
+      "name": "Investing",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Investment": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Creative real estate investing, Fidelity Investments, Financial adviser, Investing and trading, Investing.com, Investment club, Investment company, Investment management, Investment strategy, Investor, Private equity, Real estate investing, Investment",
+      "name": "Investment",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "InvestmentPlus_latam": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Real estate investment trust, Alternative Investment Market, Investment banking, Investopedia, Alternative investment, Investment club, Creative real estate investing, Investment trust, Fidelity Investments, Financial adviser, Edward Jones Investments, Property investment club, Investment management, Private equity, Angel investor, Investment strategy, Investment, Investment company, Investec, Real estate investing, Investor, Return on investment, XP Investimentos, Investing.com",
+      "name": "InvestmentPlus_latam",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Investment_Plus_GCC": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Real estate investment trust, Alternative Investment Market, Investment banking, Investopedia, Alternative investment, Investment club, Creative real estate investing, Investment trust, Fidelity Investments, Financial adviser, Edward Jones Investments, Property investment club, Investment management, Private equity, Investment strategy, Investment, Investment company, Investec, Real estate investing, Investor, Return on investment, XP Investimentos or Investing.com",
+      "name": "Investment_Plus_GCC",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Lux": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Gucci, Louis Vuitton, Chanel, Dior, Prada, Balenciaga, Versace, Bottega Veneta, Off-White, Alexander McQueen, Zara, H&M, Mango, Shein, ASOS, Net-a-Porter, Farfetch, Revolve, Fashion Nova, Nordstrom, Online shopping, Fashion accessories, Streetwear, Luxury goods, High-end fashion, Personal stylists, Fashion magazines, Fashion shows, Beauty and cosmetics, Luxury lifestyle, Instagram influencers, Fashion photography, Travel and lifestyle bloggers, Vogue, Harper’s Bazaar, GQ, Glamour, Marie Claire",
+      "name": "Lux",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Luxury": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Luxury Watches, Luxury Shop, Luxury Travel, First class travel, Luxury, Luxury Bags, Luxury box, The Luxury Collection, Shopping, Luxury Resorts, Luxury Store, Luxury Lifestyle, Sofitel, Luxury Travel Advisor, Gourmet, Luxury yacht, Personal luxury car, Luxury vehicle, Travel, Luxury goods, Destinology - Luxury Holidays, Destination Luxury or Luxury Lodge Holiday, Behaviors: Frequent Travelers, Frequent international travelers or People who prefer high-value goods in UAE",
+      "name": "Luxury",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Luxury2": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Horse care, Arabian horse, Property investment trust, Show jumping, National Cutting Horse Association, Horse tack, Cross-country equestrianism, American Quarter Horse, FEI World Equestrian Games, Horse & Hound, Horse breeding, Horse training, Horse show, Horse trainer, Endurance riding, Arabian Ranches Golf Club, Horse & Rider, Horse racing (sport), Falconry, Horseback riding (horse sport), Equestrian facility, World Arabian Horse Organization",
+      "name": "Luxury2",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Main_1": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Swing trading, Stock market index, Electronic trading platform, Trading strategy, Financial market, Money, Day trading, Stock exchange, Finance, FxPro, Personal finance, Technical analysis, Market trend, Forex signal, Passive income, Investment management, MetaTrader 4, Stock, Investment strategy, Foreign exchange market, Stock market, FXCM, Investment, Interactive Brokers, Algorithmic trading, Wealth, EToro, E-Trade, Investor, Income, Online Trading Academy, Plus500, Return on investment, Forex Trader",
+      "name": "Main_1",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Main_2": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Financial market, Investopedia, MarketWatch, Motivation, NASDAQ, Investment management, Investment strategy, Investor, Motivational speaking, Investing.com, Investor, Motivational speaker, Investor Relations, Investment Consultant, Investment Analyst",
+      "name": "Main_2",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Mix": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Investment banking, Asset management, Private banking, Private equity, Wealth management, Investment banking, Personal finance",
+      "name": "Mix",
+      "narrow": "Frequent international travelers, Business class, Business jet, FirstClass, Horse racing, Luxury, Luxury Resorts, Luxury vehicle, Yacht club",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "OnlineEducation": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Business education, Coaching, Coursera, EdX, Emotional intelligence",
+      "name": "OnlineEducation",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "OnlineGaming": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Blizzard Entertainment, Call of Duty, Epic Games, FIFA, Fortnite, Gamer, Grand Theft Auto, Grand Theft Auto V, League of Legends, MMORPG, MMORPG, Nintendo, PC Gamer, PlayStation, PlayStation 4, PlayStation Network, PlayStation Store, Roblox, Rockstar Games, Twitch, Ubisoft, Video game developer, Xbox, Xbox One, Esports teams, Strategy video game, Video game publisher, Video game related content, Online games, Video games",
+      "name": "OnlineGaming",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "PF": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Foreign exchange market, Investor, Investment, personal finance",
+      "name": "PF",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Passive": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Income, Passive income, Wealth, Wealth management",
+      "name": "Passive",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Platforms": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Bloomberg L.P., Charles Schwab Corporation, EToro, Fidelity Investments, Investing.com, Investopedia, MarketWatch, MetaTrader 4, TD Ameritrade, The Motley Fool",
+      "name": "Platforms",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Reading": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "All-news radio, E-books, News magazine, News broadcasting, Literature, Online newspaper, Local news, Books, Breaking news, News media, Newspapers, Current events, Journalism",
+      "name": "Reading",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "SM1": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Foreign exchange market, Investor, Personal finance, Stock exchange, Stock market, Investment",
+      "name": "SM1",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "SM2": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Foreign exchange market, Investor, Stock exchange, Stock market",
+      "name": "SM2",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "SMYA": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Stock exchange, Personal finance, Foreign exchange market, Stock market, Investment or Investor, Facebook access (mobile): Apple (iOS) devices",
+      "name": "SMYA",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Sport_AR_com": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "CBSSports.com, Sports, NBC Sports, Cue sports, ESPNcricinfo, NDTV, Sporting News, Fox Sports, Fox Sports 1 or 247Sports.com, Behaviors: Sports page admins, Employers: FOX Sports",
+      "name": "Sport_AR_com",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "TRDEZ": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Trading strategy, Day trading, FxPro, CMC Markets, FXCM, EToro, E-Trade, Plus500",
+      "name": "TRDEZ",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Tech": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Andreessen Horowitz, Digital Trends, Gadget, Kickstarter, Seed accelerator, TechCrunch, TechRadar, VentureBeat, Technology",
+      "name": "Tech",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Trading": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Day trading, Trading strategy, Algorithmic trading, Swing trading, Retail foreign exchange trading, XTB Online Trading, High-frequency trading, Forex Online Trading, Online Trading Academy",
+      "name": "Trading",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "TradingNIK": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Swing Trading, Day Trading, investment",
+      "name": "TradingNIK",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "TradingYB": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Day Trading, Swing trading",
+      "name": "TradingYB",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Well_-_being": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Well-being, Quality of life, Quality of life, Self-confidence, Self-knowledge, Self-esteem, Personal development, Personal development, Health & wellness, Emotional intelligence, Coaching, Self-knowledge, Self-knowledge, Happiness, Motivation",
+      "name": "Well_-_being",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Wide": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Inclusion: Interests: Luxury Watches, Nintendo, Horse care, All-news radio, Swing trading, Business school, Asos, Seed accelerator, Vocational education, Forex Club, Real estate investment trust, Balenciaga, Alternative Investment Market, Luxury Shop, Luxury Travel, Roblox, GQ, Video game publisher, Coaching, Trading strategy, Business education, Show jumping, Investment banking, E-books, First class travel, Financial market, Investopedia, Day trading, Quality of life, TechRadar, MMORPG, Stock exchange, Kickstarter, Luxury, FxPro, Alternative investment, National Cutting Horse Association, Investment club, Personal finance, High-frequency trading, Luxury Bags, Creative real estate investing, Forex Bank, Mobile game, Call of Duty, Investment trust, Gucci, Fidelity Investments, OzForex, Motivation, News magazine, American Quarter Horse, Khan Academy, InstaForex, Luxury box, Ubisoft, The Luxury Collection, PlayStation, News broadcasting, Epic Games, Financial adviser, FEI World Equestrian Games, H&M, Journalism, Prada, Literature, Edward Jones Investments, Health & wellness, Shopping, Forex signal, Exchange-traded fund, Strategy video game, Marie Claire, Chanel, Venture capital, Passive income, Stanford University, Property investment club, Current events, Investment management, Streetwear, Private equity, Horse training, Forex CFDs Signal, Nordstrom, Angel investor, Alexander McQueen, CMC Markets, forex trader, Investment strategy, Real estate development, Forex Signals, Initial public offering, Online newspaper, Online shopping, Foreign exchange market, Fashion accessories, Stock market, Forex Factory, Louis Vuitton, FXCM, League of Legends, Local news, Luxury Resorts, Luxury Store, Investment, Luxury Lifestyle, Investment company, Sofitel, Real estate appraisal, Investec, Self-confidence, Algorithmic trading, Self-esteem, Versace, Twitch, Real estate investing, Books, Wealth management, Master class, Forex Online Trading, Emotional intelligence, IOS, Bottega Veneta, Luxury Travel Advisor, Digital Trends, EToro, Udemy, Gadget, Real estate, Net-a-Porter, E-Trade, Horse & Rider, Investor, XForex, Gourmet, Breaking news, Easy forex, Luxury yacht, Private equity fund, Personal development, Personal luxury car, News media, Technology, Newspapers, Luxury vehicle, TechCrunch, VentureBeat, Travel, Massive open online course, Retail foreign exchange trading, Online Trading Academy, Alpari Group, Coursera, Fortnite, High-net-worth individual, Luxury goods, Well-being, EdX, Destinology - Luxury Holidays, Profit Forex Signal, Plus500, Return on investment, Skillshare, Farfetch, XTB Online Trading, FOREX.com, United States colleges and universities, United States business schools, Esports teams, Real estate marketing and coaching, Video game related content, Educational resources, MT5.com - Forex Traders Community or iFOREX",
+      "name": "Wide",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "competators_investment_mix": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Swing trading, Trading strategy, Financial market, Day trading, Stock exchange, Finance, Alternative investment, Financial services, Passive income, Investment management, MetaTrader 4, Stock, Investment strategy, Investment, EToro, E-Trade, Investor, Plus500, Return on investment, Investing.com",
+      "name": "competators_investment_mix",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "reading_latam": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "All-news radio, E-books, ESPNews, Opera News, News magazine, Sport (Spanish newspaper), News broadcasting, Record (newspaper), Online newspaper, Local news, Books, International News Service v. Associated Press, Science News, Breaking news, News media, Newspapers, Sporting News",
+      "name": "reading_latam",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "sport": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "UEFA Champions League, Lionel Messi, La Liga, Liverpool F.C., Real Madrid C.F., Cristiano Ronaldo, FC Barcelona, FIFA World Cup, Sports, Physical fitness, Premier League, UEFA Europa League, FIFA, Football, Neymar, UEFA, Ligue 1, Physical exercise or Manchester City F.C., Behaviors: Soccer fans (moderate content engagement) or Soccer fans (high content engagement)",
+      "name": "sport",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "tradingYG": {
+      "added_at": "",
+      "added_by": "Evgeni Sedin",
+      "interests": "Alpari Group, CMC Markets, E-Trade, EToro, Foreign exchange market, FXCM, FxPro, Interactive Brokers, MetaTrader 4, Passive income, Plus500, Stock market, Stock market index future",
+      "name": "tradingYG",
+      "narrow": "",
+      "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    }
+  },
+  "version": 1
+}
