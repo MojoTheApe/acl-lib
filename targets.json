@@ -12,6 +12,16 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "0-1": {
+      "added_at": "2026-09-22 21:32:51 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "Interest 0 1",
+      "name": "0-1",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "1-0": {
       "added_at": "2026-09-22 21:10:18 UTC",
       "added_by": "Evgeni Sedin",
