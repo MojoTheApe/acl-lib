@@ -4083,6 +4083,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Без звёзд": {
+      "added_at": "2026-09-22 21:02:14 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Текст",
+      "description": "",
+      "headline": "Купите",
+      "language": "",
+      "name": "Без звёзд",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Второй": {
       "added_at": "2026-09-22 21:02:00 UTC",
       "added_by": "Evgeni Sedin",
