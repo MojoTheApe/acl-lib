@@ -3711,6 +3711,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Local": {
+      "added_at": "2026-09-22 21:10:58 UTC",
+      "added_by": "Anna",
+      "asset": "",
+      "body": "",
+      "description": "",
+      "headline": "Other headline",
+      "language": "",
+      "name": "Local",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "MCDL Pro 2": {
       "added_at": "2026-09-08 23:43:57",
       "added_by": "Evgeni Sedin",
