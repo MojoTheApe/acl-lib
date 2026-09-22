@@ -4070,6 +4070,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Второй": {
+      "added_at": "2026-09-22 21:02:00 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Скидка. Купите сейчас.",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Второй",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Первый": {
       "added_at": "2026-09-22 21:01:58 UTC",
       "added_by": "Evgeni Sedin",
