@@ -4135,6 +4135,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Ненужный": {
+      "added_at": "2026-09-22 21:02:27 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "B",
+      "description": "",
+      "headline": "A",
+      "language": "",
+      "name": "Ненужный",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Оригинал": {
       "added_at": "2026-09-22 21:02:03 UTC",
       "added_by": "Evgeni Sedin",
