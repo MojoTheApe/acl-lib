@@ -4083,6 +4083,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Абзацы": {
+      "added_at": "2026-09-22 21:02:19 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Первая строка\n\nВторая строка",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Абзацы",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Без звёзд": {
       "added_at": "2026-09-22 21:02:14 UTC",
       "added_by": "Evgeni Sedin",
