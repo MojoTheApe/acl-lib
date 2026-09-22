@@ -342,6 +342,16 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Invest": {
+      "added_at": "2026-09-22 21:10:50 UTC",
+      "added_by": "Anna",
+      "interests": "Other",
+      "name": "Invest",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Investing": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
