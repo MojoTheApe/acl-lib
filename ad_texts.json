@@ -4218,6 +4218,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "банан": {
+      "added_at": "2026-09-22 21:02:37 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "тело банан",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "банан",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "яблоко": {
       "added_at": "2026-09-22 21:02:33 UTC",
       "added_by": "Evgeni Sedin",
