@@ -4114,6 +4114,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Ананас": {
+      "added_at": "2026-09-22 21:02:35 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "тело Ананас",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Ананас",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Без звёзд": {
       "added_at": "2026-09-22 21:02:14 UTC",
       "added_by": "Evgeni Sedin",
