@@ -4204,6 +4204,19 @@
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
+    },
+    "яблоко": {
+      "added_at": "2026-09-22 21:02:33 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "тело яблоко",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "яблоко",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
     }
   },
   "version": 1
