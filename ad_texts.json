@@ -4122,6 +4122,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "Живой": {
+      "added_at": "2026-09-22 21:02:21 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Первая\nВторая",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Живой",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Оригинал": {
       "added_at": "2026-09-22 21:02:03 UTC",
       "added_by": "Evgeni Sedin",
