@@ -224,20 +224,6 @@
       "deleted_at": "2026-09-23 16:09:47 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Invest": {
-      "data": {
-        "added_at": "2026-09-22 21:10:50 UTC",
-        "added_by": "Anna",
-        "interests": "Other",
-        "name": "Invest",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-23 16:09:47 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Old": {
       "data": {
         "added_at": "2026-09-22 21:10:52 UTC",
@@ -512,6 +498,16 @@
       "name": "IPO",
       "narrow": "",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Invest": {
+      "added_at": "2026-09-23 16:27:41 UTC",
+      "added_by": "Anna",
+      "interests": "Other",
+      "name": "Invest",
+      "narrow": "",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
