@@ -187,23 +187,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Первый": {
-      "data": {
-        "added_at": "2026-09-22 21:01:58 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "Купите сейчас. Скидка.",
-        "description": "",
-        "headline": "Заголовок",
-        "language": "",
-        "name": "Первый",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Со звёздами": {
       "data": {
         "added_at": "2026-09-22 21:02:12 UTC",
@@ -4357,6 +4340,19 @@
       "language": "AR",
       "name": "Text5",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Первый": {
+      "added_at": "2026-09-24 06:39:07 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Купите сейчас. Скидка.",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Первый",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     }
