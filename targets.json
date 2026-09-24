@@ -237,20 +237,6 @@
       },
       "deleted_at": "2026-09-24 06:26:35 UTC",
       "deleted_by": "Evgeni Sedin"
-    },
-    "Old": {
-      "data": {
-        "added_at": "2026-09-23 16:27:43 UTC",
-        "added_by": "Anna",
-        "interests": "Travel, Hotels",
-        "name": "Old",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:26:35 UTC",
-      "deleted_by": "Evgeni Sedin"
     }
   },
   "renamed": {},
@@ -642,6 +628,16 @@
       "name": "Mix",
       "narrow": "Frequent international travelers, Business class, Business jet, FirstClass, Horse racing, Luxury, Luxury Resorts, Luxury vehicle, Yacht club",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Old": {
+      "added_at": "2026-09-24 08:07:19 UTC",
+      "added_by": "Anna",
+      "interests": "Travel, Hotels",
+      "name": "Old",
+      "narrow": "",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
