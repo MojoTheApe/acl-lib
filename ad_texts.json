@@ -17,23 +17,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Saved longer": {
-      "data": {
-        "added_at": "2026-09-22 21:09:11 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "Other copy",
-        "description": "",
-        "headline": "Different",
-        "language": "",
-        "name": "Saved longer",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Ненужный": {
       "data": {
         "added_at": "2026-09-24 06:39:31 UTC",
@@ -3875,6 +3858,19 @@
       "headline": "Local headline",
       "language": "",
       "name": "Saved",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Saved longer": {
+      "added_at": "2026-09-24 06:43:12 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Other copy",
+      "description": "",
+      "headline": "Different",
+      "language": "",
+      "name": "Saved longer",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
