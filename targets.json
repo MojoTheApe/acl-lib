@@ -112,20 +112,6 @@
       "deleted_at": "2026-09-24 06:26:35 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "2-6": {
-      "data": {
-        "added_at": "2026-09-24 05:57:00 UTC",
-        "added_by": "Evgeni Sedin",
-        "interests": "Interest 2 6",
-        "name": "2-6",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:26:35 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "2-7": {
       "data": {
         "added_at": "2026-09-24 05:57:02 UTC",
@@ -278,6 +264,16 @@
       "added_by": "Evgeni Sedin",
       "interests": "Interest 2 5",
       "name": "2-5",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "2-6": {
+      "added_at": "2026-09-24 15:48:27 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "Interest 2 6",
+      "name": "2-6",
       "narrow": "",
       "source": "dashboard",
       "updated_at": "",
