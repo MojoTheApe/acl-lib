@@ -336,20 +336,6 @@
       "deleted_at": "2026-09-24 06:26:35 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "A": {
-      "data": {
-        "added_at": "2026-09-23 16:27:24 UTC",
-        "added_by": "Evgeni Sedin",
-        "interests": "один, два, три, четыре",
-        "name": "A",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:26:35 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Fin": {
       "data": {
         "added_at": "2026-09-23 16:27:27 UTC",
@@ -451,6 +437,16 @@
   },
   "renamed": {},
   "targets": {
+    "A": {
+      "added_at": "2026-09-24 06:43:29 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "один, два, три, четыре",
+      "name": "A",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Cars": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
