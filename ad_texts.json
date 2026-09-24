@@ -17,23 +17,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Ненужный": {
-      "data": {
-        "added_at": "2026-09-24 06:39:31 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "B",
-        "description": "",
-        "headline": "A",
-        "language": "",
-        "name": "Ненужный",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:39:33 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Текст": {
       "data": {
         "added_at": "2026-09-22 21:04:20 UTC",
@@ -4222,6 +4205,19 @@
       "headline": "Заголовок",
       "language": "",
       "name": "Живой",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Ненужный": {
+      "added_at": "2026-09-24 07:58:41 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "B",
+      "description": "",
+      "headline": "A",
+      "language": "",
+      "name": "Ненужный",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
