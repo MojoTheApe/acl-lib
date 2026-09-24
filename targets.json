@@ -1,257 +1,456 @@
 {
-  "deleted": {},
-  "renamed": {},
-  "targets": {
+  "deleted": {
     "0-0": {
-      "added_at": "2026-09-24 05:44:17 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 0",
-      "name": "0-0",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:17 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 0",
+        "name": "0-0",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-1": {
-      "added_at": "2026-09-24 05:44:19 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 1",
-      "name": "0-1",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:19 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 1",
+        "name": "0-1",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-2": {
-      "added_at": "2026-09-24 05:44:20 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 2",
-      "name": "0-2",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:20 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 2",
+        "name": "0-2",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-3": {
-      "added_at": "2026-09-24 05:44:22 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 3",
-      "name": "0-3",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:22 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 3",
+        "name": "0-3",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-4": {
-      "added_at": "2026-09-24 05:44:24 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 4",
-      "name": "0-4",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:24 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 4",
+        "name": "0-4",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-5": {
-      "added_at": "2026-09-24 05:44:26 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 5",
-      "name": "0-5",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:26 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 5",
+        "name": "0-5",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-6": {
-      "added_at": "2026-09-24 05:44:27 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 6",
-      "name": "0-6",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:27 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 6",
+        "name": "0-6",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "0-7": {
-      "added_at": "2026-09-24 05:44:29 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 0 7",
-      "name": "0-7",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:44:29 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 0 7",
+        "name": "0-7",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-0": {
-      "added_at": "2026-09-23 16:27:09 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 0",
-      "name": "1-0",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:09 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 0",
+        "name": "1-0",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-1": {
-      "added_at": "2026-09-23 16:27:10 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 1",
-      "name": "1-1",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:10 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 1",
+        "name": "1-1",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-2": {
-      "added_at": "2026-09-23 16:27:12 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 2",
-      "name": "1-2",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:12 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 2",
+        "name": "1-2",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-3": {
-      "added_at": "2026-09-23 16:27:15 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 3",
-      "name": "1-3",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:15 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 3",
+        "name": "1-3",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-4": {
-      "added_at": "2026-09-23 16:27:17 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 4",
-      "name": "1-4",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:17 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 4",
+        "name": "1-4",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-5": {
-      "added_at": "2026-09-23 16:27:18 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 5",
-      "name": "1-5",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:18 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 5",
+        "name": "1-5",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-6": {
-      "added_at": "2026-09-23 16:27:20 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 6",
-      "name": "1-6",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:20 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 6",
+        "name": "1-6",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "1-7": {
-      "added_at": "2026-09-23 16:27:21 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 1 7",
-      "name": "1-7",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:21 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 1 7",
+        "name": "1-7",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-0": {
-      "added_at": "2026-09-24 05:56:49 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 0",
-      "name": "2-0",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:56:49 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 0",
+        "name": "2-0",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-1": {
-      "added_at": "2026-09-24 05:56:51 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 1",
-      "name": "2-1",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:56:51 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 1",
+        "name": "2-1",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-2": {
-      "added_at": "2026-09-24 05:56:53 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 2",
-      "name": "2-2",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:56:53 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 2",
+        "name": "2-2",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-3": {
-      "added_at": "2026-09-24 05:56:54 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 3",
-      "name": "2-3",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:56:54 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 3",
+        "name": "2-3",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-4": {
-      "added_at": "2026-09-24 05:56:56 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 4",
-      "name": "2-4",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:56:56 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 4",
+        "name": "2-4",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-5": {
-      "added_at": "2026-09-24 05:56:58 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 5",
-      "name": "2-5",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:56:58 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 5",
+        "name": "2-5",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-6": {
-      "added_at": "2026-09-24 05:57:00 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 6",
-      "name": "2-6",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:57:00 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 6",
+        "name": "2-6",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "2-7": {
-      "added_at": "2026-09-24 05:57:02 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Interest 2 7",
-      "name": "2-7",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-24 05:57:02 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Interest 2 7",
+        "name": "2-7",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
     "A": {
-      "added_at": "2026-09-23 16:27:24 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "один, два, три, четыре",
-      "name": "A",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "data": {
+        "added_at": "2026-09-23 16:27:24 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "один, два, три, четыре",
+        "name": "A",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
     },
+    "Fin": {
+      "data": {
+        "added_at": "2026-09-23 16:27:27 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Investment, Trading",
+        "name": "Fin",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    },
+    "Invest": {
+      "data": {
+        "added_at": "2026-09-23 16:27:41 UTC",
+        "added_by": "Anna",
+        "interests": "Other",
+        "name": "Invest",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    },
+    "Investment Plus": {
+      "data": {
+        "added_at": "2026-09-23 16:27:34 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "Finance",
+        "name": "Investment Plus",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    },
+    "Local": {
+      "data": {
+        "added_at": "2026-09-23 16:15:46 UTC",
+        "added_by": "Anna",
+        "interests": "Travel",
+        "name": "Local",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    },
+    "Main 1": {
+      "data": {
+        "added_at": "2026-09-23 16:27:36 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "один",
+        "name": "Main 1",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    },
+    "Old": {
+      "data": {
+        "added_at": "2026-09-23 16:27:43 UTC",
+        "added_by": "Anna",
+        "interests": "Travel, Hotels",
+        "name": "Old",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    },
+    "Первый": {
+      "data": {
+        "added_at": "2026-09-23 16:27:30 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "один, два",
+        "name": "Первый",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-09-24 06:26:35 UTC",
+      "deleted_by": "Evgeni Sedin"
+    }
+  },
+  "renamed": {},
+  "targets": {
     "Cars": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
@@ -329,16 +528,6 @@
       "name": "FX_Y",
       "narrow": "",
       "source": "sheet",
-      "updated_at": "",
-      "updated_by": ""
-    },
-    "Fin": {
-      "added_at": "2026-09-23 16:27:27 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Investment, Trading",
-      "name": "Fin",
-      "narrow": "",
-      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
@@ -422,16 +611,6 @@
       "updated_at": "",
       "updated_by": ""
     },
-    "Invest": {
-      "added_at": "2026-09-23 16:27:41 UTC",
-      "added_by": "Anna",
-      "interests": "Other",
-      "name": "Invest",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
-    },
     "Investing": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
@@ -452,16 +631,6 @@
       "updated_at": "",
       "updated_by": ""
     },
-    "Investment Plus": {
-      "added_at": "2026-09-23 16:27:34 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "Finance",
-      "name": "Investment Plus",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
-    },
     "InvestmentPlus_latam": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
@@ -479,16 +648,6 @@
       "name": "Investment_Plus_GCC",
       "narrow": "",
       "source": "sheet",
-      "updated_at": "",
-      "updated_by": ""
-    },
-    "Local": {
-      "added_at": "2026-09-23 16:15:46 UTC",
-      "added_by": "Anna",
-      "interests": "Travel",
-      "name": "Local",
-      "narrow": "",
-      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
@@ -522,16 +681,6 @@
       "updated_at": "",
       "updated_by": ""
     },
-    "Main 1": {
-      "added_at": "2026-09-23 16:27:36 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "один",
-      "name": "Main 1",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
-    },
     "Main_1": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
@@ -559,16 +708,6 @@
       "name": "Mix",
       "narrow": "Frequent international travelers, Business class, Business jet, FirstClass, Horse racing, Luxury, Luxury Resorts, Luxury vehicle, Yacht club",
       "source": "sheet",
-      "updated_at": "",
-      "updated_by": ""
-    },
-    "Old": {
-      "added_at": "2026-09-23 16:27:43 UTC",
-      "added_by": "Anna",
-      "interests": "Travel, Hotels",
-      "name": "Old",
-      "narrow": "",
-      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
@@ -779,16 +918,6 @@
       "name": "tradingYG",
       "narrow": "",
       "source": "sheet",
-      "updated_at": "",
-      "updated_by": ""
-    },
-    "Первый": {
-      "added_at": "2026-09-23 16:27:30 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "один, два",
-      "name": "Первый",
-      "narrow": "",
-      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     }
