@@ -119,23 +119,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Второй": {
-      "data": {
-        "added_at": "2026-09-22 21:02:00 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "Скидка. Купите сейчас.",
-        "description": "",
-        "headline": "Заголовок",
-        "language": "",
-        "name": "Второй",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Живой": {
       "data": {
         "added_at": "2026-09-22 21:02:21 UTC",
@@ -4340,6 +4323,19 @@
       "language": "AR",
       "name": "Text5",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Второй": {
+      "added_at": "2026-09-24 06:39:09 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Скидка. Купите сейчас.",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Второй",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
