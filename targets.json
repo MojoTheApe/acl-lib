@@ -1,19 +1,5 @@
 {
   "deleted": {
-    "0-0": {
-      "data": {
-        "added_at": "2026-09-24 05:44:17 UTC",
-        "added_by": "Evgeni Sedin",
-        "interests": "Interest 0 0",
-        "name": "0-0",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:26:35 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "0-1": {
       "data": {
         "added_at": "2026-09-24 05:44:19 UTC",
@@ -381,6 +367,16 @@
   },
   "renamed": {},
   "targets": {
+    "0-0": {
+      "added_at": "2026-09-24 08:06:45 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "Interest 0 0",
+      "name": "0-0",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "A": {
       "added_at": "2026-09-24 06:43:29 UTC",
       "added_by": "Evgeni Sedin",
