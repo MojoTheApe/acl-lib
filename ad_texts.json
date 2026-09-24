@@ -51,23 +51,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Ананас": {
-      "data": {
-        "added_at": "2026-09-22 21:02:35 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "тело Ананас",
-        "description": "",
-        "headline": "Заголовок",
-        "language": "",
-        "name": "Ананас",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Ненужный": {
       "data": {
         "added_at": "2026-09-24 06:39:31 UTC",
@@ -4212,6 +4195,19 @@
       "headline": "Заголовок",
       "language": "",
       "name": "Абзацы",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Ананас": {
+      "added_at": "2026-09-24 06:39:37 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "тело Ананас",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Ананас",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
