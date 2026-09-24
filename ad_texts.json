@@ -51,23 +51,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Абзацами": {
-      "data": {
-        "added_at": "2026-09-22 21:02:09 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "Первый абзац.\nВторой абзац.",
-        "description": "",
-        "headline": "Заголовок",
-        "language": "",
-        "name": "Абзацами",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Абзацы": {
       "data": {
         "added_at": "2026-09-22 21:02:19 UTC",
@@ -4289,6 +4272,19 @@
       "language": "AR",
       "name": "Text5",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Абзацами": {
+      "added_at": "2026-09-24 06:39:16 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Первый абзац.\nВторой абзац.",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Абзацами",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
