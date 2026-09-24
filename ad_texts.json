@@ -1,22 +1,5 @@
 {
   "deleted": {
-    "Local": {
-      "data": {
-        "added_at": "2026-09-22 21:10:58 UTC",
-        "added_by": "Anna",
-        "asset": "",
-        "body": "",
-        "description": "",
-        "headline": "Other headline",
-        "language": "",
-        "name": "Local",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Ненужный": {
       "data": {
         "added_at": "2026-09-24 07:58:41 UTC",
@@ -3725,6 +3708,19 @@
       "language": "AR",
       "name": "Guaranteed AR",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Local": {
+      "added_at": "2026-09-24 08:07:26 UTC",
+      "added_by": "Anna",
+      "asset": "",
+      "body": "",
+      "description": "",
+      "headline": "Other headline",
+      "language": "",
+      "name": "Local",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
