@@ -170,23 +170,6 @@
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
     },
-    "Сплошняком": {
-      "data": {
-        "added_at": "2026-09-22 21:02:07 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "Первый абзац. Второй абзац.",
-        "description": "",
-        "headline": "Заголовок",
-        "language": "",
-        "name": "Сплошняком",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "Текст": {
       "data": {
         "added_at": "2026-09-22 21:04:20 UTC",
@@ -4344,6 +4327,19 @@
       "headline": "Заголовок",
       "language": "",
       "name": "Первый",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Сплошняком": {
+      "added_at": "2026-09-24 06:39:14 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "Первый абзац. Второй абзац.",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "Сплошняком",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
