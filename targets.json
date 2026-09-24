@@ -223,20 +223,6 @@
       },
       "deleted_at": "2026-09-24 06:26:35 UTC",
       "deleted_by": "Evgeni Sedin"
-    },
-    "Local": {
-      "data": {
-        "added_at": "2026-09-23 16:15:46 UTC",
-        "added_by": "Anna",
-        "interests": "Travel",
-        "name": "Local",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:26:35 UTC",
-      "deleted_by": "Evgeni Sedin"
     }
   },
   "renamed": {},
@@ -558,6 +544,16 @@
       "name": "Investment_Plus_GCC",
       "narrow": "",
       "source": "sheet",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Local": {
+      "added_at": "2026-09-24 08:07:24 UTC",
+      "added_by": "Anna",
+      "interests": "Travel",
+      "name": "Local",
+      "narrow": "",
+      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     },
