@@ -33,23 +33,6 @@
       },
       "deleted_at": "2026-09-24 07:58:43 UTC",
       "deleted_by": "Evgeni Sedin"
-    },
-    "Текст": {
-      "data": {
-        "added_at": "2026-09-22 21:04:20 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "Aramco Form",
-        "body": "Тело",
-        "description": "Описание",
-        "headline": "Заголовок",
-        "language": "AR",
-        "name": "Текст",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
     }
   },
   "texts": {
@@ -4274,6 +4257,19 @@
       "headline": "Заголовок",
       "language": "",
       "name": "Сплошняком",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Текст": {
+      "added_at": "2026-09-24 08:00:24 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "Aramco Form",
+      "body": "Тело",
+      "description": "Описание",
+      "headline": "Заголовок",
+      "language": "AR",
+      "name": "Текст",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
