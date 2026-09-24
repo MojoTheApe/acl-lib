@@ -1,23 +1,5 @@
 {
-  "deleted": {
-    "Ненужный": {
-      "data": {
-        "added_at": "2026-09-24 08:10:01 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "B",
-        "description": "",
-        "headline": "A",
-        "language": "",
-        "name": "Ненужный",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 08:10:03 UTC",
-      "deleted_by": "Evgeni Sedin"
-    }
-  },
+  "deleted": {},
   "texts": {
     "AR 2M": {
       "added_at": "2026-09-08 23:43:57",
@@ -4201,6 +4183,19 @@
       "headline": "Заголовок",
       "language": "",
       "name": "Живой",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "Ненужный": {
+      "added_at": "2026-09-24 15:51:59 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "B",
+      "description": "",
+      "headline": "A",
+      "language": "",
+      "name": "Ненужный",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
