@@ -1,19 +1,5 @@
 {
   "deleted": {
-    "0-1": {
-      "data": {
-        "added_at": "2026-09-24 05:44:19 UTC",
-        "added_by": "Evgeni Sedin",
-        "interests": "Interest 0 1",
-        "name": "0-1",
-        "narrow": "",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:26:35 UTC",
-      "deleted_by": "Evgeni Sedin"
-    },
     "0-2": {
       "data": {
         "added_at": "2026-09-24 05:44:20 UTC",
@@ -372,6 +358,16 @@
       "added_by": "Evgeni Sedin",
       "interests": "Interest 0 0",
       "name": "0-0",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "0-1": {
+      "added_at": "2026-09-24 08:06:47 UTC",
+      "added_by": "Evgeni Sedin",
+      "interests": "Interest 0 1",
+      "name": "0-1",
       "narrow": "",
       "source": "dashboard",
       "updated_at": "",
