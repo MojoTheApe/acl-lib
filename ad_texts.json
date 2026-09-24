@@ -84,23 +84,6 @@
       },
       "deleted_at": "2026-09-24 06:24:41 UTC",
       "deleted_by": "Evgeni Sedin"
-    },
-    "банан": {
-      "data": {
-        "added_at": "2026-09-22 21:02:37 UTC",
-        "added_by": "Evgeni Sedin",
-        "asset": "",
-        "body": "тело банан",
-        "description": "",
-        "headline": "Заголовок",
-        "language": "",
-        "name": "банан",
-        "source": "dashboard",
-        "updated_at": "",
-        "updated_by": ""
-      },
-      "deleted_at": "2026-09-24 06:24:41 UTC",
-      "deleted_by": "Evgeni Sedin"
     }
   },
   "texts": {
@@ -4299,6 +4282,19 @@
       "headline": "Заголовок",
       "language": "",
       "name": "Сплошняком",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
+    "банан": {
+      "added_at": "2026-09-24 06:39:39 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "",
+      "body": "тело банан",
+      "description": "",
+      "headline": "Заголовок",
+      "language": "",
+      "name": "банан",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
