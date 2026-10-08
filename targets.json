@@ -1,17 +1,22 @@
 {
-  "deleted": {},
+  "deleted": {
+    "A": {
+      "data": {
+        "added_at": "2026-09-24 06:43:29 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "один, два, три, четыре",
+        "name": "A",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-10-08 11:32:26 UTC",
+      "deleted_by": "Evgeni Sedin"
+    }
+  },
   "renamed": {},
   "targets": {
-    "A": {
-      "added_at": "2026-09-24 06:43:29 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "один, два, три, четыре",
-      "name": "A",
-      "narrow": "",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
-    },
     "Cars": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
