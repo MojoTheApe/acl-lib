@@ -27,6 +27,20 @@
       },
       "deleted_at": "2026-10-08 11:34:12 UTC",
       "deleted_by": "Evgeni Sedin"
+    },
+    "Первый": {
+      "data": {
+        "added_at": "2026-09-24 06:43:34 UTC",
+        "added_by": "Evgeni Sedin",
+        "interests": "один, два",
+        "name": "Первый",
+        "narrow": "",
+        "source": "dashboard",
+        "updated_at": "",
+        "updated_by": ""
+      },
+      "deleted_at": "2026-10-08 11:34:20 UTC",
+      "deleted_by": "Evgeni Sedin"
     }
   },
   "renamed": {},
@@ -578,16 +592,6 @@
       "name": "tradingYG",
       "narrow": "",
       "source": "sheet",
-      "updated_at": "",
-      "updated_by": ""
-    },
-    "Первый": {
-      "added_at": "2026-09-24 06:43:34 UTC",
-      "added_by": "Evgeni Sedin",
-      "interests": "один, два",
-      "name": "Первый",
-      "narrow": "",
-      "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
     }
