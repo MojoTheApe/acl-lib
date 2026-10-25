@@ -1,0 +1,47 @@
+{
+  "deleted": {},
+  "templates": {
+    "ebed6c085de8": {
+      "added_at": "2026-10-25 20:23:23 UTC",
+      "added_by": "Evgeni Sedin",
+      "button_text": "Visit website",
+      "contact_fields": [
+        "first_name",
+        "last_name",
+        "email",
+        "phone"
+      ],
+      "headline": "سجّل الآن وسيتواصل معك أحد ممثلينا لتزويدك بكافة التفاصيل.",
+      "id": "ebed6c085de8",
+      "intro": "\"كن شريكًا في نجاح أدنوك... قصة نفخر بها، ومستقبل يمكنك أن تكون جزءًا منه.\n\nجميعنا نعرف أدنوك؛ فهي إحدى أكبر شركات الطاقة في العالم، ولعبت دورًا محوريًا في دعم اقتصاد دولة الإمارات العربية المتحدة ومسيرة التنمية لعقود. واليوم، لديك فرصة لتكون أكثر من مجرد متابع؛ بل أن تتعرّف على فرصة مرتبطة بإحدى أبرز الشركات الوطنية في دولة الإمارات.\n\nسجّل بياناتك، وسيتواصل معك فريقنا لشرح جميع التفاصيل وكيف يمكنك البدء.\n\nيرجى التأكد من صحة بيانات التواصل الخاصة بك.\"",
+      "locale": "AR_AR",
+      "name": "Form Adnoc",
+      "privacy_link_text": "Privacy Policy",
+      "privacy_url": "https://www.highmarkets.com/wp-content/uploads/sites/39/HIGHMARKETS-Privacy-Policy-May_2026-4.pdf",
+      "questions": [
+        {
+          "label": "هل أنت مواطن إماراتي أو مقيم في دولة الإمارات منذ أكثر من 5 سنوات؟",
+          "options": [
+            "نعم",
+            "لا"
+          ],
+          "type": "multiple_choice"
+        },
+        {
+          "label": "ما هو المبلغ الأولي الذي ترغب في استثماره؟",
+          "options": [
+            "$250 - $1,000",
+            "$1,000 - $10,000",
+            "$10,000 - $25,000",
+            "$25,000+"
+          ],
+          "type": "multiple_choice"
+        }
+      ],
+      "thank_you_text": "شكرًا لك، لقد تم إعداد كل شيء. سيقوم أحد ممثلينا بالتواص\nيمكنك زيارة موقعنا الإلكتروني أو الخروج من النموذج الآن.",
+      "thank_you_title": "Thank you",
+      "website_url": "https://www.highmarkets.com/client-area/login"
+    }
+  },
+  "version": 1
+}
