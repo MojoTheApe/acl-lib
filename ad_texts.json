@@ -3789,7 +3789,7 @@
       "updated_at": "",
       "updated_by": ""
     },
-    "P2": {
+    "P2 EST": {
       "added_at": "2026-11-01 11:52:38 UTC",
       "added_by": "Yotam Balteriski",
       "asset": "Banco Estado",
@@ -3797,10 +3797,10 @@
       "description": "",
       "headline": "",
       "language": "ES",
-      "name": "P2",
+      "name": "P2 EST",
       "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "updated_at": "2026-11-01 12:13:52 UTC",
+      "updated_by": "Yotam Balteriski"
     },
     "P3 EST": {
       "added_at": "2026-11-01 11:51:44 UTC",
