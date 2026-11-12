@@ -62,36 +62,54 @@
         "email",
         "phone"
       ],
+      "cover_local_sha256": "0beb46cebde027eba52b21864b86f235c0b412b33463957eab4d6e17b6777937",
       "headline": "سجّل الآن وسيتواصل معك أحد ممثلينا لتزويدك بكافة التفاصيل.",
       "id": "5e0859b3b20b",
       "intro": "كن شريكًا في نجاح أرامكو... قصة نفخر بها، ومستقبل يمكنك أن تكون جزءًا منه.\n\nجميعنا نعرف أرامكو؛ فهي إحدى أكبر شركات الطاقة في العالم، ولعبت دورًا محوريًا في دعم اقتصاد المملكة العربية السعودية ومسيرة التنمية لعقود. واليوم، لديك فرصة لتكون أكثر من مجرد متابع؛ بل أن تتعرّف على فرصة مرتبطة بإحدى أبرز الشركات الوطنية في المملكة.\n\nسجّل بياناتك، وسيتواصل معك فريقنا لشرح جميع التفاصيل وكيف يمكنك البدء.\n\nيرجى التأكد من صحة بيانات التواصل الخاصة بك.",
       "locale": "AR_AR",
       "name": "Ar Aramco - The Goat SA",
+      "non_lead_end": {
+        "button_text": "Visit website",
+        "text": "سنعود إليك إذا كانت معلوماتك ذات صلة.",
+        "title": "شكراً لاهتمامك!",
+        "website_url": "https://www.highmarkets.com/client-area/login"
+      },
       "privacy_link_text": "Privacy Policy",
       "privacy_url": "https://www.highmarkets.com/wp-content/uploads/sites/39/HIGHMARKETS-Privacy-Policy-May_2026-4.pdf",
       "questions": [
         {
           "label": "هل أنت مواطن سعودي؟",
+          "logic": {
+            "لا": "close",
+            "نعم": "next"
+          },
           "options": [
             "نعم",
             "لا"
           ],
-          "type": "multiple_choice"
+          "type": "multiple_choice_logic"
         },
         {
           "label": "ما هو المبلغ الأولي الذي ترغب في استثماره؟",
+          "logic": {
+            "$1,000 - $10,000": "submit",
+            "$10,000 - $25,000": "submit",
+            "$25,000+": "submit",
+            "$250 - $1,000": "submit"
+          },
           "options": [
             "$250 - $1,000",
             "$1,000 - $10,000",
             "$10,000 - $25,000",
             "$25,000+"
           ],
-          "type": "multiple_choice"
+          "type": "multiple_choice_logic"
         }
       ],
+      "questions_first": true,
       "thank_you_text": "شكرًا لك، لقد تم إعداد كل شيء. سيقوم أحد ممثلينا بالتواص\nيمكنك زيارة موقعنا الإلكتروني أو الخروج من النموذج الآن.",
       "thank_you_title": "Thank you",
-      "updated_at": "2026-11-11 16:26:40 UTC",
+      "updated_at": "2026-11-12 18:59:16 UTC",
       "updated_by": "Evgeni Sedin",
       "website_url": "https://www.highmarkets.com/client-area/login"
     },
