@@ -19,6 +19,19 @@
     }
   },
   "texts": {
+    "AR - Wake Up - Antropic": {
+      "added_at": "2026-11-12 08:26:54 UTC",
+      "added_by": "Evgeni Sedin",
+      "asset": "Antropic",
+      "body": "تخيّل أن تستيقظ على أرباح جاهزة. يقوم أنثروبيك بتحليل آلاف الإشارات في الدقيقة وتنفيذ الصفقات تلقائيًا. لا تحتاج إلى أي خبرة — ابدأ بـ 100 دولار فقط.",
+      "description": "",
+      "headline": "<< سجل قبل الاغلاق",
+      "language": "AR",
+      "name": "AR - Wake Up - Antropic",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "AR 2M": {
       "added_at": "2026-09-08 23:43:57",
       "added_by": "Evgeni Sedin",
