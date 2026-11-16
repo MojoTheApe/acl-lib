@@ -55,6 +55,16 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "CL_HV_TRD": {
+      "added_at": "2026-11-16 13:50:23 UTC",
+      "added_by": "Yotam Balteriski",
+      "interests": "People who prefer high-value goods in Chile, People who prefer high-value goods in Chile",
+      "name": "CL_HV_TRD",
+      "narrow": "Day trading, Trading strategy, Algorithmic trading, Retail foreign exchange trading, High-frequency trading, Forex Online Trading, Online Trading Academy",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Cars": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
