@@ -45,6 +45,16 @@
   },
   "renamed": {},
   "targets": {
+    "CL_HV": {
+      "added_at": "2026-11-16 13:48:44 UTC",
+      "added_by": "Yotam Balteriski",
+      "interests": "People who prefer high-value goods in Chile, People who prefer high-value goods in Chile",
+      "name": "CL_HV",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "Cars": {
       "added_at": "",
       "added_by": "Evgeni Sedin",
