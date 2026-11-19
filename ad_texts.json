@@ -3854,6 +3854,19 @@
       "updated_at": "",
       "updated_by": ""
     },
+    "P1 BCP": {
+      "added_at": "2026-11-16 13:56:55 UTC",
+      "added_by": "Yotam Balteriski",
+      "asset": "",
+      "body": "Aprenda a invertir en BCP y otras empresas rentables como un profesional 📈💼",
+      "description": "",
+      "headline": "",
+      "language": "",
+      "name": "P1 BCP",
+      "source": "dashboard",
+      "updated_at": "2026-11-19 11:32:06 UTC",
+      "updated_by": "Yotam Balteriski"
+    },
     "P1 BNC": {
       "added_at": "2026-11-19 11:30:38 UTC",
       "added_by": "Yotam Balteriski",
@@ -3928,19 +3941,6 @@
       "headline": "",
       "language": "",
       "name": "P2 ML",
-      "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
-    },
-    "P3 BCP": {
-      "added_at": "2026-11-16 13:56:55 UTC",
-      "added_by": "Yotam Balteriski",
-      "asset": "",
-      "body": "Aprenda a invertir en BCP y otras empresas rentables como un profesional 📈💼",
-      "description": "",
-      "headline": "",
-      "language": "",
-      "name": "P3 BCP",
       "source": "dashboard",
       "updated_at": "",
       "updated_by": ""
