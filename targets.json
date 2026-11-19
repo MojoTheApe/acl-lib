@@ -45,6 +45,16 @@
   },
   "renamed": {},
   "targets": {
+    "Banking": {
+      "added_at": "2026-11-19 12:17:12 UTC",
+      "added_by": "Yotam Balteriski",
+      "interests": "Banking, Online banking, Financial services, Finance, Investment banking, Retail banking, Financial planning, Credit, Economics.",
+      "name": "Banking",
+      "narrow": "",
+      "source": "dashboard",
+      "updated_at": "",
+      "updated_by": ""
+    },
     "CL_HV": {
       "added_at": "2026-11-16 13:48:44 UTC",
       "added_by": "Yotam Balteriski",
