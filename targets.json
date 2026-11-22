@@ -43,7 +43,9 @@
       "deleted_by": "Evgeni Sedin"
     }
   },
-  "renamed": {},
+  "renamed": {
+    "CL_HV_TRD": "CL_HV|TRD"
+  },
   "targets": {
     "Banking": {
       "added_at": "2026-11-19 12:17:12 UTC",
@@ -75,15 +77,15 @@
       "updated_at": "",
       "updated_by": ""
     },
-    "CL_HV_TRD": {
+    "CL_HV|TRD": {
       "added_at": "2026-11-16 13:50:23 UTC",
       "added_by": "Yotam Balteriski",
       "interests": "People who prefer high-value goods in Chile, People who prefer high-value goods in Chile",
-      "name": "CL_HV_TRD",
+      "name": "CL_HV|TRD",
       "narrow": "Day trading, Trading strategy, Algorithmic trading, Retail foreign exchange trading, High-frequency trading, Forex Online Trading, Online Trading Academy",
       "source": "dashboard",
-      "updated_at": "",
-      "updated_by": ""
+      "updated_at": "2026-11-22 11:05:29 UTC",
+      "updated_by": "Gil Zangi"
     },
     "Cars": {
       "added_at": "",
