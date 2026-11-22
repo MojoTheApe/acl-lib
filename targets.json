@@ -108,12 +108,12 @@
     "DAY|Investment": {
       "added_at": "2026-11-01 12:30:55 UTC",
       "added_by": "Yotam Balteriski",
-      "interests": "Algorithmic trading, Alpari Group, CMC Markets, Day trading, E-Trade, EToro, Financial market, Foreign exchange market, Forex signal, FXCM, FxPro, High-frequency trading, Passive income, Plus500, Stock exchange, Stock market, Swing trading",
+      "interests": "\"Algorithmic trading, Alpari Group, CMC Markets, Day trading, E-Trade, EToro, Financial market, Foreign exchange market, Forex signal, FXCM, FxPro, High-frequency trading, Passive income, Plus500, Stock exchange, Stock market, Swing trading\"",
       "name": "DAY|Investment",
-      "narrow": "Creative real estate investing, Fidelity Investments, Financial adviser, Investing and trading, Investing.com, Investment club, Investment company, Investment management, Investment strategy, Investor, Private equity, Real estate investing, Investment",
+      "narrow": "Investment, Investor, Investing.com, Real estate investing, Private equity, Financial adviser, Investment management, Investment company, Investment club, Investment strategy, Fidelity Investments, Creative real estate investing, Investing and trading, Edward Jones Investments or Investment banking",
       "source": "dashboard",
-      "updated_at": "2026-11-08 17:40:30 UTC",
-      "updated_by": "Evgeni Sedin"
+      "updated_at": "2026-11-22 10:53:05 UTC",
+      "updated_by": "Gil Zangi"
     },
     "Day": {
       "added_at": "",
